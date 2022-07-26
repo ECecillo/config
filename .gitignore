@@ -1,0 +1,14 @@
+.config/Code/
+.config/JetBrains/
+.config/Microsoft/
+.config/Min/
+.config/Slack/
+.config/bumblebee-status/
+.config/coc/
+.config/composer/vendor/
+.config/discord/
+.config/teams/
+.config/Microsoft\ Teams\ \-\ Preview/
+.config/share/
+.config/vlc/
+.config/autostart/
