@@ -164,7 +164,7 @@ assign [class="X-terminal-emulator"] $ws1
 assign [class="Min"] $ws2
 assign [class="Slack"] $ws3
 assign [class="Teams"] $ws3 
-assign [class="Discord"] $ws4
+assign [class="Discord"] $ws3
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
